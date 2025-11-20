@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aless\\Desktop\\C#  \u0026  .NET\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{657E5932-941C-4558-9DF6-7CE2AF9260AF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\aless\\desktop\\c#  \u0026  .net\\consoleapp1\\consoleapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657E5932-941C-4558-9DF6-7CE2AF9260AF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC7AFF9-D376-492A-A133-DDDC5978E7B3}|Test\\Test.csproj|c:\\users\\aless\\desktop\\c#  \u0026  .net\\consoleapp1\\test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC7AFF9-D376-492A-A133-DDDC5978E7B3}|Test\\Test.csproj|solutionrelative:test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657E5932-941C-4558-9DF6-7CE2AF9260AF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\aless\\desktop\\c#  \u0026  .net\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657E5932-941C-4558-9DF6-7CE2AF9260AF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\Desktop\\C#  \u0026  .NET\\ConsoleApp1\\ConsoleApp1\\Calculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Calculator.cs",
+              "ToolTip": "C:\\Users\\aless\\Desktop\\C#  \u0026  .NET\\ConsoleApp1\\ConsoleApp1\\Calculator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:18:48.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\Desktop\\C#  \u0026  .NET\\ConsoleApp1\\Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\aless\\Desktop\\C#  \u0026  .NET\\ConsoleApp1\\Test\\UnitTest1.cs",
+              "RelativeToolTip": "Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:14:12.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\Desktop\\C#  \u0026  .NET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\aless\\Desktop\\C#  \u0026  .NET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:12:14.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
